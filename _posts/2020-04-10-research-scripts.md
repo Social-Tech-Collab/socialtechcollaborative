@@ -1,0 +1,26 @@
+---
+title: "Play 1: Use text messaging to reach people where they are at."
+categories: ["texting"]
+image: example.png
+# visit: https://github.com/chekos/research-scripts/
+---
+
+### {{ page.title }}
+
+#### Why we recommend this play
+* Text messaging can be a low-cost but high-reward way to bolster communications:
+  - It can supplement existing agency communications,
+  - Get information out to many recipients quickly, and
+  - It is relatively cheap
+* Text messaging can reach more people, including those who are hard-to-reach:
+  - Not everyone has reliable access to computers or smartphones to check websites, email, or mobile apps. Text messaging is more likely to reach those who have limmited technology access.
+  - Not everyone has a mailing address. Text messaging is more likely to reach those who cannot receive mail.
+  - Many are already familiar with, comfortable using, and may even prefer text messaging.
+* Text messaging can be another way to check in with people and let them know that you care.
+
+#### Best practices for this play
+* Use empathy
+* Use one-way text messaging to broadcast information to many people quickly
+* Use two-way text messaging to do simple yes/no two-way communicating, such as for appointment confirmations.
+
+#### Our sources
