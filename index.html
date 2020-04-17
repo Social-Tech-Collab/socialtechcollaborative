@@ -1,0 +1,106 @@
+---
+title: "Social Services Response Playbook (COVID-19)"
+layout: default
+description: "A technology guide for social service agencies responding to the increased demand for basic needs during the coronavirus pandemic."
+---
+
+<div class="jumbotron">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8">
+                <h1 class="display-4">Social Services Response Playbook (COVID-19)</h1>
+                <p class="lead">A technology guide for social service agencies responding to the increased demand for basic needs during the coronavirus pandemic.</p>
+            </div>
+            <div class="col-md-4">
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container">
+    <div class="row">
+        <div class="col-lg-8">
+            <h2>About the playbook</h2>
+            <p>The Social Services Response Playbook is designed for state, local, and nonprofit agencies to access practical and timely guidance to meet the overwhelming demand for basic needs such as food, health, and income assistance. In the wake of steps taken to protect public health during the COVID-19 pandemic, agencies have had to quickly change business operations in order to protect their staff, while still allowing them to provide help and support, as well as implement the new flexibilities in policy and procedures provided by changes in federal, state, and local policy. It is a collaborative effort from nonprofit and social impact organizations who are focused on leveraging technology, policy, design, and data expertise to transform the ways public-serving institutions deliver and manage social support and services.</p>
+        </div>
+        <div class="col-lg-4">
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-lg-12">
+            <hr>
+        </div>
+    </div>
+</div>
+<div class="container">
+    <div class="row">
+        <div class="col-lg-6">
+            <h2>Who this is for</h2>
+            <p>State, local, and nonprofit social service agencies that administer programs to provide food (SNAP and WIC), health (Medicaid/CHIP), and income assistance (TANF and unemployment benefits) to those in need.</p>
+        </div>
+        <div class="col-lg-6">
+            <h2>Feedback</h2>
+            <p>How to give feedback on the playbook:</p>
+            <ul>
+                <li>Email: <a href="mailto:socialtech@alluma.org">socialtech@alluma.org</a></li>
+                <li><a href="https://github.com/socialtechus/socialtechus.github.io/issues">Submit a GitHub issue</a></li>
+            </ul>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-lg-12">
+            <hr>
+        </div>
+    </div>
+</div>
+<!-- Plays Section -->
+<section class="mt-4 mb-5">
+    
+    <div class="container mb-4">
+        <h1 class="font-weight-bold title">Explore plays</h1>    
+        <div class="row">
+        {% include menu-categories.html %}
+        </div>
+    </div>
+  
+    
+  <div class="container-fluid">
+    
+    <div class="card-columns">        
+        {% for post in paginator.posts reversed %}
+            {% include card-post.html %}
+        {% endfor %}            
+    </div>
+  
+    <div class="row justify-content-center mt-5">
+     <!-- Pagination links -->
+        {% if paginator.total_pages > 1 %}
+        <div class="pagination"> 
+          {% if paginator.previous_page %}
+            <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Previous</a>
+          {% else %}
+            <span class="prev">&laquo; Previous</span>
+          {% endif %}
+  
+          {% for page in (1..paginator.total_pages) %}
+            {% if page == paginator.page %}
+              <span class="webjeda">{{ page }}</span>
+            {% elsif page == 1 %}
+              <a href="{{site.baseurl}}/">{{ page }}</a>
+            {% else %}
+              <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
+            {% endif %}
+          {% endfor %}
+  
+          {% if paginator.next_page %}
+            <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
+          {% else %}
+            <span class="next">Next &raquo;</span>
+          {% endif %}
+        </div>
+        {% endif %}      
+    </div>
+  
+  </div>    
+  
+  </section>
+<!-- End of Plays Section -->
