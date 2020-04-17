@@ -71,9 +71,9 @@ footer.footer {
 .nav-link,.dropdown-item {
 	font-weight: 700;
 }
-.navbar {
+/* .navbar {
 	padding: 0.5rem 2rem;
-}
+} */
 .overlay {
 	position:absolute;
 	top:0;
