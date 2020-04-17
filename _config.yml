@@ -1,8 +1,8 @@
 # Site
 name: 'Social Tech Playbook'
 description: 'The Social Services Response Playbook is a technology guide for social service agencies responding to the increased demand for basic needs during the coronavirus pandemic.'
-logo: 'assets/img/favicon/favicon-96x96.png'
-logo_full: 'assets/img/favicon/favicon-16x16.png'
+logo: 'assets/img/favicon/favicon-16x16.png'
+logo_full: 'assets/img/favicon/favicon-96x96.png'
 favicon: 'assets/img/favicon/favicon.ico'
 baseurl: '/playbook'
 url: 'https://socialtech.us'
