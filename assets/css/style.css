@@ -23,17 +23,13 @@ h6,
     font-weight: 600;
 }
 
-h2 {
+h2, h4 {
     padding-top: 1.5rem;
 }
 
 h2,
 h3 {
     padding-bottom: 1rem;
-}
-
-h4 {
-    font-weight: 400;
 }
 
 a,
@@ -58,6 +54,13 @@ li {
 ul {
     padding-bottom: .5rem;
     padding-top: .5rem;
+}
+
+/* Main */
+
+main p,
+main li {
+    font-size: 1.3rem;
 }
 
 /* Navbar */
@@ -241,9 +244,17 @@ ul {
     text-decoration: none;
 }
 
-/* Other */
-.container-fluid {
-	width:100%;
-	margin:0px auto;
-	max-width: 100%;
+/* Playbook */
+
+.playbook {
+    background: #111111;
+    padding: 20px 0;
+}
+
+.playbook,
+.playbook a,
+.playbook a:visited,
+.playbook a:hover {
+    color: #ffffff !important;
+    text-decoration: none;
 }
