@@ -31,14 +31,16 @@ layout: default
                         {% endif %}
                     </small>                     -->
                         {{ content }}
+                        {% include feedback.html %}
+                        <h2>Related plays</h2>
                         {% if page.visit %}
                         <p><a target="_blank" href="{{page.visit}}" class="btn">
                                 Visit website <i class="fas fa-external-link-alt"></i></a>
                         </p>
                         {% endif %}
                         {% for category in page.categories %}
-                        <a class="btn btn-sm btn-indigo" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">
-                            # {{ category | downcase }}
+                        <a class="btn btn-light" href="{{site.baseurl}}/categories.html#{{ category | capitalize }}">
+                            {{ category | capitalize }}
                         </a>
                         {% endfor %}
                     </div>
@@ -51,7 +53,6 @@ layout: default
                         {% endif %}
                     </div>
                 </article>
-                {% include feedback.html %}
             </div>
             <div class="col-lg-4">
             </div>
