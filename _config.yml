@@ -45,7 +45,7 @@ paginate: 20
 
 # Exclude metadata and development time dependencies (like Grunt plugins)
 exclude: [
-  _posts/2020-01-22-template.md,
+  _posts/template.md,
   README.md,
   package.json,
   grunt.js,
