@@ -16,6 +16,7 @@ layout: default
     <div class="container">
         <div class="row">
             <div class="col-lg-8">
+                {% include feedback.html %}
                 <article class="card">
                     {% if page.image %}
                     <img class="card-img-top" src="{% if page.image contains " ://" %}{{ page.image }}{% else %}{{ absolute_url }}../assets/projects/{{ page.image }}{% endif %}" alt="{{ page.title }}">
@@ -50,13 +51,9 @@ layout: default
                         {% endif %}
                     </div>
                 </article>
+                {% include feedback.html %}
             </div>
             <div class="col-lg-4">
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-lg-12">
-                <hr>
             </div>
         </div>
     </div>
