@@ -4,12 +4,18 @@ layout: default
 permalink: "/categories"
 ---
 <section class="">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-12">
-                <h1>Categories</h1>
+    <div class="jumbotron">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8">
+                    <h1>Categories</h1>
+                </div>
+                <div class="col-lg-4">
+                </div>
             </div>
         </div>
+    </div>
+    <div class="container">
         <div class="row">
             <div class="col-lg-12">
                 {% include menu-categories.html %}
@@ -22,7 +28,7 @@ permalink: "/categories"
                 <div class="card-columns">
                     {% for category in site.categories %}
                 </div>
-                <h2 id="{{ category[0] | downcase }}"><small class="text-muted"></small> {{ category[0] }}</h2>
+                <h2 id="{{ category[0] | capitalize }}"><small class="text-muted"></small> {{ category[0] }}</h2>
                 <div class="card-columns">
                     {% assign pages_list = category[1] %}
                     {% for post in pages_list %}
