@@ -653,3 +653,8 @@ a.next {
 .highlight {
     background-color: #f8f8f8;
 }
+
+/* accessibility */
+#content:focus { 
+    outline: none; 
+}
