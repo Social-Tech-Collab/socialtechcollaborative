@@ -111,6 +111,7 @@ h6,
 .card {
     border: 0;
     transition: ease .1s;
+    background: #111111;
 }
 
 .card-pin:hover .overlay {
@@ -651,4 +652,13 @@ a.next {
 
 .highlight {
     background-color: #f8f8f8;
+}
+
+/* accessibility */
+#content:focus { 
+    outline: none; 
+}
+
+article.card {
+    background-color: transparent;
 }

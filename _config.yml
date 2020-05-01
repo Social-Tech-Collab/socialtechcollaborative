@@ -1,6 +1,6 @@
 # Site
 name: 'Social Tech Playbook'
-description: 'The Social Services Response Playbook is a technology guide for social service agencies responding to the increased demand for basic needs during the coronavirus pandemic.'
+description: 'The Social Services Playbook for COVID-19 Response is a technology guide for social service agencies responding to the increased demand for basic needs during the coronavirus pandemic.'
 logo: 'assets/img/avatar.png'
 logo_full: 'assets/img/avatar.png'
 favicon: 'assets/img/favicon/favicon.ico'
@@ -53,3 +53,6 @@ exclude: [
   Gruntfile.coffee,
   node_modules
 ]
+
+# Disqus
+disqus_shortname: socialtechus
