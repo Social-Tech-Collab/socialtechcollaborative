@@ -53,3 +53,6 @@ exclude: [
   Gruntfile.coffee,
   node_modules
 ]
+
+# Disqus
+disqus_shortname: socialtechus
