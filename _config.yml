@@ -56,3 +56,12 @@ exclude: [
 
 # Disqus
 disqus_shortname: socialtechus
+
+# Twitter cards
+twitter:
+  username: SocialTechUs
+  card: 'Working to transform social services tech.'
+
+  # Facebook cards
+  facebook:
+  publisher: https://www.facebook.com/socialtechus
