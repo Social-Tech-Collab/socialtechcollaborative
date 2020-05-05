@@ -4,8 +4,6 @@ box_title: "Improve RFPs to deliver human-centered services"
 categories: ["Procurement","Human centered design","Accessibility"]
 date: 2020-5-4
 comments: true
-# image: example.png
-# visit: https://github.com/socialtechus/playbook/
 ---
 
 Social services agencies may be quickly working to put new technology products in place so that they can continue to serve their clients during shelter in place directives. This play is intended to guide agencies on what to ask for in request for proposals (RFP) to ensure that, despite this urgency, agencies still receive high-quality products that meet both agency and client needs.
