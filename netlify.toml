@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/playbook/*"
+  to = "/"
+  status = 200
