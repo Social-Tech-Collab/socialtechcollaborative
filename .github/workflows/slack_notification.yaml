@@ -1,0 +1,28 @@
+name: slack-notification-with-optional-parameters
+
+on: [issue_comment, pull_request_review_comment]
+
+jobs:
+  slack-notification-with-optional-parameters:
+    if: (github.event.issue.pull_request != null) &&  contains(github.event.comment.body, '/slack-preview')
+    runs-on: ubuntu-latest
+    name: Sends a message to Slack when a push, a pull request or an issue is made
+    steps:
+      - uses: actions/checkout@v2
+      - name: Set up Python
+        uses: actions/setup-python@v1
+        with:
+          python-version: 3.8
+      - name: Install requests
+        run: pip install requests
+      - name: write payload
+        run: |
+          curl ${{ github.event.issue.url }} > payload.json
+      - name: Write target_url
+        run: |
+          python .github/write_target_url.py
+      - id: TARGET_URL
+        run: echo "::set-env name=TARGET_URL::$(cat target_url.txt)" 
+      - name: Send message to Slack API
+        run: |
+          curl -X POST -H 'Content-type: application/json' --data "{\"text\":\"Website preview at $TARGET_URL\"}" ${{ secrets.SLACK_WEBHOOK}}
