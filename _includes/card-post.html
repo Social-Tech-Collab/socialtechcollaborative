@@ -1,4 +1,4 @@
-<div class="card card-pin raco" {% unless post.image %} style="min-height:250px" {% endunless %}>
+<div class="card card-pin raco" {% unless post.image %} style="min-height:250px; min-width: 24rem;" {% endunless %}>
     {% unless post.image %}
     <a href="{{site.baseurl}}{{post.url}}" class="d-block">
         <h2 class="card-title title">{% if post.box_title %}{{ post.box_title }}{% else %}{{ post.title }}{% endif %}</h2>
