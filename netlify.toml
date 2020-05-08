@@ -1,4 +1,4 @@
 [[redirects]]
-  from = "/playbook/*"
-  to = "/"
+  from = "/playbook/:title"
+  to = "/:title"
   status = 200
