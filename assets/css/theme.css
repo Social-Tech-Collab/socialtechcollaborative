@@ -663,6 +663,6 @@ article.card {
     background-color: transparent;
 }
 
-.card.card-pin.raco {
+.card.card-pin {
     min-width: 24rem;
 }
