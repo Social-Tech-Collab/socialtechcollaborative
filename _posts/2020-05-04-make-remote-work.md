@@ -7,6 +7,9 @@ comments: true
 # visit: https://github.com/socialtechus/playbook/
 ---
 
+<small><i>This play was written by [Alluma](alluma.org), one of the partners in the Social Tech Collaborative.</i></small>
+
+
 Before the COVID-19 emergency, many agencies administering social services programs were already adopting remote options to apply and enroll so that clients did not need to visit an office to do everything. During the COVID-19 emergency, it’s simply not possible to conduct business as usual if staff and clients are to be kept safe. Agencies need to make it possible for clients to do anything and everything needed to access programs without visiting an office. Policies for many of the programs people are relying on for basic needs are changing rapidly to make remote assistance possible, and these are only part of the effort needed to transition to completely remote assistance. This play provides guidance to agencies on how to use technology in ways to make this rapid transition smoother and more successful.
 
 ## Best practices for this play

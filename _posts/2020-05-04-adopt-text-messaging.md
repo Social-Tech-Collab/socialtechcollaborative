@@ -7,6 +7,8 @@ comments: true
 # visit: https://github.com/socialtechus/playbook/
 ---
 
+<small><i>This play was written by [Alluma](alluma.org), with contributions from Civilla, Code for America, mRelief, and One Degree, all partners in the Social Tech Collaborative.</i></small>
+
 Text messaging can be a fast, low cost, and high impact way to strengthen communications, which is especially needed during a crisis. When done well, it can supplement existing communications, get information out to many recipients quickly, and help resolve questions and issues far faster and with less frustration.
 
 96% of Americans own a cellphone of some kind and most people are familiar with and may even prefer communicating via text message. This approach can maximize the number of people reached compared to other methods (e.g. email, regular mail, web sites, apps, etc.) because almost everyone has a phone. Even cellphone users with more basic devices (e.g. not smartphones) support text messaging. It is important to note that some users are on limited usage plans and need to conserve calling minutes or smartphone data - your approach needs to take that into account.
