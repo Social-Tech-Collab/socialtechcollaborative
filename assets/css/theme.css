@@ -662,3 +662,7 @@ a.next {
 article.card {
     background-color: transparent;
 }
+
+.card.card-pin {
+    min-width: 24rem;
+}
