@@ -7,7 +7,7 @@ comments: true
 # visit: https://github.com/socialtechus/playbook/
 ---
 
-<small><i>This play was written by [Alluma](alluma.org), with contributions from Civilla, Code for America, mRelief, and One Degree, all partners in the Social Tech Collaborative.</i></small>
+<small><i>This play was written by [Alluma](alluma.org), with contributions from [Civilla](civilla.com), [Code for America](codeforamerica.org), [mRelief](mrelief.com), and [One Degree](1degree.org), all partners in the Social Tech Collaborative.</i></small>
 
 Text messaging can be a fast, low cost, and high impact way to strengthen communications, which is especially needed during a crisis. When done well, it can supplement existing communications, get information out to many recipients quickly, and help resolve questions and issues far faster and with less frustration.
 
