@@ -6,6 +6,8 @@ date: 2020-5-4
 comments: true
 ---
 
+<small><i>This play was written by [Alluma](alluma.org), one of the partners in the Social Tech Collaborative.</i></small>
+
 Social services agencies may be quickly working to put new technology products in place so that they can continue to serve their clients during shelter in place directives. This play is intended to guide agencies on what to ask for in request for proposals (RFP) to ensure that, despite this urgency, agencies still receive high-quality products that meet both agency and client needs.
 
 Every procurement situation is unique. Agencies have different needs and will be seeking a variety of products. Government agencies in particular may have more budgetary constraints and be subject to certain  procurement requirements too. Therefore agencies should only use the recommendations below that make sense for their situation.
