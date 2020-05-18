@@ -41,4 +41,4 @@ Have you moved the work your organization usually does in-person online? Are you
 
 ## Resources
 
-* For more information on , see our play [using technology to make the transition from in-person to remote assistance easier](../make-remote-work)
+* For more information on, see our play [using technology to make the transition from in-person to remote assistance easier](../make-remote-work)
