@@ -39,7 +39,7 @@ Overall, agencies should use three primary design directives to guide their form
 * **Design a proofs page.** Create a guide that provides plain-language examples of the documents clients may need to submit to include with their application and renewals.
 * **Design an information booklet.** Create a dedicated space for required policy and legal information that isn’t needed directly on forms. This provides clients with a portable resource to reference online or take home with them when they have finished completing their task.
 * **Design a standardized interview guide.** Create a standardized interview guide that is paired with applications and renewals to ensure that all federal, state, and departmental policies are covered. This will provide a helpful tool for caseworkers and create a more consistent experience for clients.
-Include pre-fill information. Where possible, pre-fiill information from the client’s case file to give them a head-start on completing their forms.
+* **Include pre-fill information.** Where possible, pre-fiill information from the client’s case file to give them a head-start on completing their forms.
 
 ## Resources
 
