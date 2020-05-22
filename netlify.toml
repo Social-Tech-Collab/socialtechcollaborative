@@ -2,3 +2,8 @@
   from = "/playbook/:title"
   to = "/:title"
   status = 200
+
+[[redirects]]
+  from = "/playbook/category/:title"
+  to = "category/:title"
+  status = 200
