@@ -33,7 +33,7 @@ layout: default
             {% endif %} {% for category in page.categories %}
             <a
               class="btn btn-light btn-lg"
-              href="{{site.baseurl}}/categories.html#{{ category | capitalize }}"
+              href="{{site.baseurl}}/category/{{ category | downcase | replace: ' ', '-' }}"
             >
               {{ category | capitalize }}
             </a>
