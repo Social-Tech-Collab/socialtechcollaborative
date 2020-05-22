@@ -1,13 +1,12 @@
 <!-- Don't edit anything here, categories are dynamically generated -->
-
-                        {% assign categories_list = site.categories %}
-                        {% if categories_list.first[0] == null %}
-                        {% for category in categories_list %}
-                        <a class="btn btn-light btn-lg" href="{{site.baseurl}}/categories#{{ category | capitalize }}">{{ category }} ({{ site.tags[category].size }})</a>
-                        {% endfor %}
-                        {% else %}
-                        {% for category in categories_list %}
-                        <a class="btn btn-light btn-lg" href="{{site.baseurl}}/categories#{{ category[0] | capitalize }}">{{ category[0] }} ({{ category[1].size }})</a>
-                        {% endfor %}
-                        {% endif %}
-                        {% assign categories_list = nil %}
+{% assign categories_list = site.categories %}
+{% if categories_list.first[0] == null %}
+{% for category in categories_list %}
+<a class="btn btn-light btn-md" href="{{site.baseurl}}/category/{{ category | downcase | replace: ' ', '-' }}">{{ category }}</a>
+{% endfor %}
+{% else %}
+{% for category in categories_list %}
+<a class="btn btn-light btn-md" href="{{site.baseurl}}/category/{{ category[0] | downcase | replace: ' ', '-' }}">{{ category[0] }}</a>
+{% endfor %}
+{% endif %}
+{% assign categories_list = nil %}

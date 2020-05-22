@@ -18,6 +18,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-seo-tag
+  - jekyll-archives
  
 # Defaults
 defaults:
@@ -66,3 +67,11 @@ twitter:
 facebook:
   app_id: 598830250979169
   publisher: https://www.facebook.com/socialtechus
+
+
+# Archives
+jekyll-archives:
+  enabled: ['categories']
+  layout: archive
+  permalinks:
+    category: '/category/:name/'

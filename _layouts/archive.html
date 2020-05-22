@@ -1,14 +1,12 @@
 ---
-title: "Categories"
 layout: default
-permalink: "/categories"
 ---
 <section class="">
     <div class="jumbotron">
         <div class="container">
             <div class="row">
                 <div class="col-lg-8">
-                    <h1>Categories</h1>
+                    <h1><span style="text-decoration: underline dotted;">{{page.title}}</span> plays</h1>
                 </div>
                 <div class="col-lg-4">
                 </div>
@@ -19,20 +17,8 @@ permalink: "/categories"
         <div class="row">
             <div class="col-lg-12">
                 <div class="card-columns">
-                    {% for category in site.categories %}
-                </div>
-                <h2 id="{{ category[0] | capitalize }}"><small class="text-muted"></small> {{ category[0] }}</h2>
-                <div class="card-columns">
-                    {% assign pages_list = category[1] %}
-                    {% for post in pages_list %}
-                    {% if post.title != null %}
-                    {% if group == null or group == post.group %}
+                    {% for post in page.posts %}
                     {% include card-post.html %}
-                    {% endif %}
-                    {% endif %}
-                    {% endfor %}
-                    {% assign pages_list = nil %}
-                    {% assign group = nil %}
                     {% endfor %}
                 </div>
             </div>
