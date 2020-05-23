@@ -1,6 +1,5 @@
 ---
-title: "Manage Increased Call Center Volume During COVID-19 "
-categories: ["Data Management","User experience","Virtual assistance"]
+title: "More plays coming soon!"
 date: 2020-5-22
 comments: false
 ---
