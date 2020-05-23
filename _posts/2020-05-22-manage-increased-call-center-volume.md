@@ -1,10 +1,8 @@
 ---
 title: "Manage Increased Call Center Volume During COVID-19 "
 categories: ["Data Management","User experience","Virtual assistance"]
-date: 2020-5-15
+date: 2020-5-22
 comments: true
-# image: example.png
-# visit: https://github.com/socialtechus/playbook/
 ---
 
 <small><i>This play was written by [mRelief](https://mrelief.com/), one of the partners in the Social Tech Collaborative</i></small>
