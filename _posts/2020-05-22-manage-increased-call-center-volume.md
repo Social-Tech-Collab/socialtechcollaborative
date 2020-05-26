@@ -1,6 +1,6 @@
 ---
 title: "Manage Increased Call Center Volume During COVID-19 "
-categories: ["Data Management","User experience","Virtual assistance"]
+categories: ["Mobile", "Virtual assistance", "Workforce"]
 date: 2020-5-22
 comments: true
 ---
@@ -29,4 +29,5 @@ This article includes a few recommendations on managing the number of incoming c
 
 ## Resources
 
-* 
+* [Partnership with Catholic Charities](https://www.mrelief.com/blog/announcement_from_catholic_charities), mRelief
+* [COVID-19’s Impact on the Social Safety Net](https://www.codeforamerica.org/news/covid-19s-impact-on-the-social-safety-net), Code for America
