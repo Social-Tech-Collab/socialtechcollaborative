@@ -38,4 +38,4 @@ For more information, contact Alissa Weiss, Director of Partnerships at aweiss@b
 
 ## Resources
 
-* Helping Unemployed Workers Access Benefits: A Q&A between Elizabeth Lower-Basch and Rachel Meeks Cahill.  https://www.clasp.org/blog/helping-unemployed-workers-access-benefits-qa-between-elizabeth-lower-basch-and-rachel-meeks
+* [Helping Unemployed Workers Access Benefits: A Q&A between Elizabeth Lower-Basch and Rachel Meeks Cahill](https://www.clasp.org/blog/helping-unemployed-workers-access-benefits-qa-between-elizabeth-lower-basch-and-rachel-meeks), CLASP
