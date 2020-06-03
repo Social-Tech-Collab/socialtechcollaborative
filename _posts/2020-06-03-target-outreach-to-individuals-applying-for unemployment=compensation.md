@@ -1,6 +1,6 @@
 ---
 title: "Target outreach to individuals applying for unemployment compensation"
-categories: ["Mobile", "Virtual assistance", "Workforce"]
+categories: ["", "", ""]
 date: 2020-6-3
 comments: true
 ---
