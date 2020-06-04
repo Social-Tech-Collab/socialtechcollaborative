@@ -22,6 +22,8 @@ layout: default
           }}../assets/projects/{{ page.image }}{% endif %}" alt="{{ page.title
           }}"> {% endif %}
           <div class="card-body">
+            <b>Table of contents</b>
+            {% toc %}
             {{ content }}
             {% assign n_categories = page.categories | size %}
             {% if n_categories != 0 %}
