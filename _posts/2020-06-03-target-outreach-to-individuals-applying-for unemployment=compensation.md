@@ -1,6 +1,6 @@
 ---
 title: "Target outreach to individuals applying for unemployment compensation"
-categories: ["Text messaging", "User experience", "Workforce"]
+categories: ["Data management", "Text messaging", "User experience", "Workforce"]
 date: 2020-6-3
 comments: true
 ---
