@@ -1,6 +1,6 @@
 ---
 title: "Target outreach to individuals applying for unemployment compensation"
-# categories: []
+categories: []
 date: 2020-6-3
 comments: true
 ---
