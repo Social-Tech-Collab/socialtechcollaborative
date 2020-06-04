@@ -23,6 +23,8 @@ layout: default
           }}"> {% endif %}
           <div class="card-body">
             {{ content }}
+            {% assign n_categories = page.categories | size %}
+            {% if n_categories != 0 %}
             <h2>Related categories</h2>
             {% if page.visit %}
             <p>
@@ -38,6 +40,7 @@ layout: default
               {{ category | capitalize }}
             </a>
             {% endfor %}
+            {% endif %}
           </div>
           {% include feedback.html %}
 
