@@ -19,6 +19,7 @@ plugins:
   - jekyll-paginate
   - jekyll-seo-tag
   - jekyll-archives
+  - jekyll-toc
  
 # Defaults
 defaults:
@@ -28,6 +29,7 @@ defaults:
       path: "_posts"
     values:
       layout: post
+      toc: true 
       
   # all pages
   - scope:
