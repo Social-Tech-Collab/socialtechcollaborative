@@ -12,7 +12,7 @@ comments: true
 Have you moved the work your organization usually does in-person online? Are you meeting with your clients over video conference platforms? This play focuses on tips and tricks for successfully working with your clients one-on-one virtually to deliver the supports and services you usually provide in person. Touching on areas such as choosing the right tools to use, addressing common client challenges with technology, rapport-building, sharing information and resources, and maintaining client privacy, this play is designed to support any professional holding meetings with clients online.
 
 ## Best practices for this play
-**Preparation**
+##### Preparation
 
 * Select an appropriate platform to use consistently with clients. Whenever possible use the same platform every time you meet with a client.
 * Communicate to current and new clients that meetings will occur online.
@@ -23,7 +23,7 @@ Have you moved the work your organization usually does in-person online? Are you
 * Open any websites, documents, or other visuals you might use in your browser in advance of the session.
 * Ensure you are prepared to address accessibility issues. Zoom offers closed captioning, for example, to better support deaf and hard of hearing clients.
 
-**During the meeting**
+##### During the meeting
 * Build rapport as closely to the same way you do in-person. Your tone and body language are useful things to communicate comfort and safety to a client. For sighted clients, place your camera where you can make it appear you are looking them in the eye.
 * Utilize the same listening and communication techniques you would use in your in-person meetings. Reflective listening, motivational interviewing, and other techniques are no different over video. This helps clients you used to meet with in person feel like the only thing that has changed is the venue.
 * Screen share the notes you are taking or the form you are filling out (if applicable) to show the client you are understanding what they are saying. This can increase trust and allows the client to correct any reflections or thoughts you might be taking down.
@@ -31,7 +31,7 @@ Have you moved the work your organization usually does in-person online? Are you
 * Allow the client to record the meeting if that is helpful to them, or record it and send the recording afterward.
 * Schedule any follow-ups with the client before you sign off. Confirm they got any meeting invites you send. **Turn off screen sharing before you open your calendar to protect the privacy of other clients**.
 
-**Regarding privacy**
+##### Regarding privacy
 
 * Show client know your conversation is private, use your camera to give a quick span of the space to show them no one is listening off-camera.
 * If you require consent for any portion of the meeting you can use a record function to get it verbally, or you could use a platform such as DocuSign to obtain consent. Online survey tools could also be used if it is made clear that by submitting the answers to the survey are an indication of consent.

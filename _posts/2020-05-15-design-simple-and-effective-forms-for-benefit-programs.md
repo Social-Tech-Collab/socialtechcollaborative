@@ -20,7 +20,7 @@ Overall, agencies should use three primary design directives to guide their form
 * **Relevant**. Only ask for information necessary to the programs that clients are applying for.
 
 
-**What can be done quickly**
+##### What can be done quickly
 * **Use plain language.** Update policy and legal language on forms to ensure it’s easy for clients to understand. Write like you’re talking to clients one-on-one, but with the authority of a frontline staff member who can actively help.
 * **Trim the excess.** Respect the gravity of the situation clients are in by stripping out all language, questions, and requirements that aren’t absolutely necessary. Include only what someone needs to know so they can complete their task. 
 * **Write for a universal audience.** Improve readability by choosing words carefully and user testing forms to ensure that they resonate with a wide audience – including people with low literacy and language barriers – while respecting people’s abilities.
@@ -34,7 +34,7 @@ Overall, agencies should use three primary design directives to guide their form
 * **Increase whitespace.** Update forms to provide as much whitespace as possible. Use less whitespace to group elements and more whitespace to distinguish them from each other.
 * **Provide confirmation and next steps.** Include details that give clients confidence and set expectations for what comes next.  
 
-**What to aim for long term**
+##### What to aim for long term
 * **Design integrated and streamlined applications and renewals.** Integrate benefit programs into a single, streamlined application and renewal to ensure residents only fill out information that is relevant to their case. Separate information into a core form (with information that is required for all or most clients to complete) and program supplements (information that is program-specific and tailored to each client’s case). 
 * **Design a proofs page.** Create a guide that provides plain-language examples of the documents clients may need to submit to include with their application and renewals.
 * **Design an information booklet.** Create a dedicated space for required policy and legal information that isn’t needed directly on forms. This provides clients with a portable resource to reference online or take home with them when they have finished completing their task.

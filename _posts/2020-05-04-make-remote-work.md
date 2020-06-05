@@ -13,7 +13,7 @@ comments: true
 Before the COVID-19 emergency, many agencies administering social services programs were already adopting remote options to apply and enroll so that clients did not need to visit an office to do everything. During the COVID-19 emergency, it’s simply not possible to conduct business as usual if staff and clients are to be kept safe. Agencies need to make it possible for clients to do anything and everything needed to access programs without visiting an office. Policies for many of the programs people are relying on for basic needs are changing rapidly to make remote assistance possible, and these are only part of the effort needed to transition to completely remote assistance. This play provides guidance to agencies on how to use technology in ways to make this rapid transition smoother and more successful.
 
 ## Best practices for this play
-**What can be done quickly**
+##### What can be done quickly
 
 Below are good practices that can potentially be done easily and quickly by your agency, depending on what tools the agency is already equipped with today. If your agency cannot do these easily or quickly, then aim to do them in the long-term.
 
@@ -35,7 +35,7 @@ Send appointment and interview details in advance, including what clients may ne
 If making outbound calls to clients, work with phone companies to be sure your agency name appears on the caller ID, rather than an unfamiliar number clients may not answer.
 After an action is completed (e.g. an application is submitted or a document uploaded), provide the client with a confirmation on the screen and/or by email.
 
-**What to aim for long-term**
+##### What to aim for long-term
 
 Below are things your agency can do that may involve more effort and time to implement. They are worth the investment, however, as they will help your agency’s clients far beyond just this current crisis.
 
@@ -47,7 +47,7 @@ Allow multiple ways to submit documentation. Allow clients to take photos of doc
 
 * **Expand functionality of online portals to enable clients to do more things themselves.** Obvious functionality to add include ways for clients to report changes and check benefits or services statuses themselves. But there may be additional ideas that your agency’s clients would appreciate.
 
-**A few more points to consider**
+##### A few more points to consider
 * Take a “mobile first” approach to online options. Design first and foremost for mobile devices because, for many people, their phone is the primary or only way to access the internet. You can’t assume that everyone has a computer.
 * Make sure that an online service works on all available browsers (for example, Chrome, Firefox, Safari).
 * Remind staff and clients to either delete personal information used on a mobile device (including tablets) if it is a shared device or to enable the device’s security features.

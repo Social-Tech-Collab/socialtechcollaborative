@@ -16,7 +16,7 @@ Text messaging can be a fast, low cost, and high impact way to strengthen commun
 
 ## Best practices for this play
 
-**What can be done quickly**
+##### What can be done quickly
 
 For those who already have the ability to text message their clients, consider using the following tips as soon as possible:
 
@@ -33,14 +33,14 @@ For those who already have the ability to text message their clients, consider u
   - Include other means to connect for follow-up questions.
   - Be proofread and tested before sending, especially if going out to many people.
 
-**A few more points to consider**
+##### A few more points to consider
 * Show respect for users by:
   - Making it easy to opt in and out of text message communication.
   - Ensuring that text messaging protects users’ privacy and security, and be sure to let users know this as well.
 * Create a plan for how text messaging will be used. Create an electronic communications policy within your organization or agency outlining who, how, when, why, and for what text messaging will be used.
 * Remember that not everyone will be able to communicate by text message, and others simply do not like using it for certain situations, or at all. Text messaging can be just one of many communication methods you use.
 
-**What to aim for long term**
+##### What to aim for long term
 
 If your organization or agency does not already have text messaging capability, explore your options. Depending on your situation, you may be able to quickly get text messaging capabilities up and running, or you may need more time. No matter which case, consider which approach below will best meet the needs of your organization and your clients: one-way text messaging, two-way text messaging, or a mix of both.
   - [One-way text messaging](https://www.codeforamerica.org/features/louisiana-demo/) is effective for short messages giving clients critical information or notifying them that basic action is required.
