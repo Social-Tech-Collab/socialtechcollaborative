@@ -1,5 +1,5 @@
 ---
-title: "Improve Request for Proposals (RFPs) to deliver human-centered services"
+title: "Improve request for proposals (RFPs) to deliver human-centered services"
 categories: ["Procurement","Human centered design","Accessibility"]
 date: 2020-5-4
 comments: true

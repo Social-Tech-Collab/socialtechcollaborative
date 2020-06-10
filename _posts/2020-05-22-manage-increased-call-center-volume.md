@@ -1,5 +1,5 @@
 ---
-title: "Manage Increased Call Center Volume During COVID-19 "
+title: "Manage increased call center volume during COVID-19 "
 categories: ["Mobile", "Virtual assistance", "Workforce"]
 date: 2020-5-22
 comments: true
