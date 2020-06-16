@@ -4,6 +4,11 @@
   status = 200
 
 [[redirects]]
+  from = "/playbook/assets/:title"
+  to = "/playbook/assets/:title"
+  status = 200
+
+[[redirects]]
   from = "/playbook/category/:title"
   to = "category/:title"
   status = 200
