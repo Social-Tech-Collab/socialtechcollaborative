@@ -9,7 +9,7 @@
     <!-- Navigation -->
     <nav class="navbar navbar-expand-lg navbar-light">
         <div class="container">
-            <a class="navbar-brand" href="{{site.url}}/">Social Tech Collaborative</a>
+            <a class="navbar-brand" href="{{ '/' | relative_url }}">Social Tech Collaborative</a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsDefault" aria-controls="navbarsDefault" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
@@ -26,7 +26,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-8">
-                    <a href="{{site.url}}{{site.baseurl}}/" title="Social Tech Playbook for COVID-19 Response">Social Tech Playbook for COVID-19 Response</a>
+                    <a href="{{ '/' | relative_url }}" title="Social Tech Playbook for COVID-19 Response">Social Tech Playbook for COVID-19 Response</a>
                 </div>
                 <div class="col-lg-4">
                     {% include search-lunr.html %}
@@ -45,10 +45,10 @@
     {% include footer.html %}
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
-    <script src="{{site.url}}/{{site.baseurl}}/assets/js/theme.js"></script>
-    <script src="{{site.url}}/{{site.baseurl}}/assets/js/lunr.js"></script>
-    <script src="{{site.url}}/{{site.baseurl}}/assets/js/anchor.js"></script>
-    <script src="{{site.url}}/{{site.baseurl}}/assets/js/anchor-headings.js"></script>
+    <script src="{{ 'assets/js/theme.js' | relative_url }}"></script>
+    <script src="{{ 'assets/js/lunr.js' | relative_url }}"></script>
+    <script src="{{ 'assets/js/anchor.js' | relative_url }}"></script>
+    <script src="{{ 'assets/js/anchor-headings.js' | relative_url }}"></script>
 </body>
 
 </html>
