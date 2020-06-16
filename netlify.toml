@@ -4,8 +4,8 @@
   status = 200
 
 [[redirects]]
-  from = "/playbook/assets/:title"
-  to = "/playbook/assets/:title"
+  from = "/playbook/assets/*"
+  to = "/playbook/assets/:splat"
   status = 200
 
 [[redirects]]
