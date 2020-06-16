@@ -5,7 +5,7 @@
 
 [[redirects]]
   from = "/playbook/assets/*"
-  to = "/playbook/assets/:splat"
+  to = "/assets/:splat"
   status = 200
 
 [[redirects]]
