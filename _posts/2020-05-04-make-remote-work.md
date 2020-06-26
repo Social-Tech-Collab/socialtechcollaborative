@@ -1,10 +1,10 @@
 ---
 title: "Use technology to make the transition from in-person to remote assistance easier"
+short_title: "Tech for remote assistance"
 categories: ["Mobile","Renewals","Document handling","Interviews"]
 date: 2020-5-4
 comments: true
-# image: example.png
-# visit: https://github.com/socialtechus/playbook/
+icon: fas fa-laptop-house
 ---
 
 <small><i>This play was written by [Alluma](alluma.org), one of the partners in the Social Tech Collaborative.</i></small>

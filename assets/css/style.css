@@ -292,3 +292,31 @@ main li {
     color: #ffffff !important;
     text-decoration: none;
 }
+
+/* Icons */
+
+.icon .fa,
+.icon .fab,
+.icon .fas,
+.icon .far {
+    font-size: 6rem;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.icon p {
+    padding-bottom: 1.5rem;
+    padding-top: .5rem;
+}
+
+.card-icon {
+    text-align: center;
+}
+
+.card-body>a{
+    color: #FFFFFF !important;
+}
+
+.card-footer{
+    text-align: center;
+}

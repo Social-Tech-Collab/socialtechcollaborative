@@ -1,10 +1,10 @@
 ---
 title: "Use text messaging to reach people during social distancing"
+short_title: "Use texting to reach people"
 categories: ["Text messaging","Interviews","Remote","User experience"]
 date: 2020-5-4
 comments: true
-# image: example.png
-# visit: https://github.com/socialtechus/playbook/
+icon: fas fa-comments
 ---
 
 <small><i>This play was written by [Alluma](alluma.org), with contributions from [Civilla](civilla.com), [Code for America](codeforamerica.org), [mRelief](mrelief.com), and [One Degree](1degree.org), all partners in the Social Tech Collaborative.</i></small>
