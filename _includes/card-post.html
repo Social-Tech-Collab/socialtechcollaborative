@@ -3,7 +3,7 @@
 {% else %}
 <div class="card card-pin raco" style="min-height:250px; min-width: 18rem;">
     <div class="card-body icon d-block">
-        <a href="{{ post.url }}" class="stretched-link">
+        <a href="{{ post.url | relative_url }}" class="stretched-link">
             <div class="card-icon">
                 {% if post.icon %}
                 <i class="{{ post.icon }}"></i>
