@@ -301,7 +301,7 @@ main li {
 .icon .far {
     font-size: 6rem;
     margin-bottom: 10px;
-    margin-top: 10px;
+    margin-top: 20px;
 }
 
 .icon p {
@@ -319,4 +319,10 @@ main li {
 
 .card-footer{
     text-align: center;
+    background-color: transparent;
+    border-top: none;
+}
+
+.card {
+    background-color: #0F4C81;
 }
