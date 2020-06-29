@@ -42,7 +42,7 @@ h3 {
 a,
 a:visited,
 a:hover {
-    color: #743193;
+    color: #0F4C81;
     text-decoration: underline;
 }
 
@@ -263,7 +263,7 @@ main li {
 
 .btn-light a,
 .btn-light a:visited {
-    color: #743193 !important;
+    color: #0F4C81 !important;
 }
 
 .btn-light,
@@ -271,7 +271,7 @@ main li {
 .btn-light:hover {
     background: #f1f1f1;
     border: 1px solid #f1f1f1;
-    color: #743193 !important;
+    color: #0F4C81 !important;
     text-decoration: none;
 }
 
