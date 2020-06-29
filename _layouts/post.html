@@ -40,7 +40,7 @@ layout: default
             </p>
             {% endif %} {% for category in page.categories %}
             <a
-              class="btn btn-light btn-lg"
+              class="btn btn-light btn-lg related-category"
               href="{{site.baseurl}}/category/{{ category | downcase | replace: ' ', '-' }}"
             >
               {{ category | capitalize }}
