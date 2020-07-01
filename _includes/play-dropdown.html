@@ -14,7 +14,7 @@
   <div class="dropdown-menu dropdown-menu-right" aria-labelledby="dropdownMenuLink">
     {% for play in site.posts %}
       {% if play.title != "More plays coming soon!" %}
-        <a class="dropdown-item" id="play-dropdown-{{ forloop.index }}" href="{{ site.baseurl }}{{ play.url }}">{{ play.title }}</a>
+        <a class="dropdown-item" id="play-dropdown-{{ forloop.index }}" href="{{ site.baseurl }}{{ play.url }}">{{ play.short_title }}</a>
       {% endif %}
     {% endfor %}
   </div>
