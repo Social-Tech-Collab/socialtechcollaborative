@@ -1,10 +1,10 @@
 ---
 title: "Stand up a new system rapidly to get benefits to families (Pandemic-EBT)"
+short_title: "Rapid deployment of Pandemic-EBT"
 categories: ["Data Management","User experience","Virtual assistance"]
 date: 2020-5-15
 comments: true
-# image: example.png
-# visit: https://github.com/socialtechus/playbook/
+icon: fas fa-project-diagram
 ---
 
 <small><i>This play was written by [Code for America](https://codeforamerica.org/), one of the partners in the Social Tech Collaborative</i></small>

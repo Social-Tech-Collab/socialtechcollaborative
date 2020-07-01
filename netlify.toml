@@ -13,7 +13,6 @@
   to = "/"
   status = 200
 
-
 [[redirects]]
   from = "/playbook/category/:title"
   to = "category/:title"

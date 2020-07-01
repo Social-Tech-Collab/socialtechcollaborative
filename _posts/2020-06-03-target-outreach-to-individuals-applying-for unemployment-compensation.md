@@ -1,8 +1,10 @@
 ---
 title: "Target outreach to individuals applying for unemployment compensation"
+short_title: "Target outreach for unemployment help"
 categories: ["Data management", "Text messaging", "User experience", "Workforce"]
 date: 2020-6-3
 comments: true
+icon: fas fa-bullseye
 ---
 
 <small><i>This play was written by [Benefits Data Trust](https://bdtrust.org/), one of the partners in the Social Tech Collaborative</i></small>

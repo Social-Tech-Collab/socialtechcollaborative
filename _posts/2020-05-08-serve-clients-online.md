@@ -1,10 +1,10 @@
 ---
 title: "Serve clients online"
+short_title: "Serve clients online"
 categories: ["Remote","Interviews","Virtual assistance"]
 date: 2020-5-8
 comments: true
-# image: example.png
-# visit: https://github.com/socialtechus/playbook/
+icon: fas fa-globe
 ---
 
 <small><i>This play was written by [Single Stop](https://singlestop.org/), one of the partners in the Social Tech Collaborative</i></small>

@@ -1,8 +1,10 @@
 ---
 title: "Improve request for proposals (RFPs) to deliver human-centered services"
+short_title: "RFPs and Human Centered Design"
 categories: ["Procurement","Human centered design","Accessibility"]
 date: 2020-5-4
 comments: true
+icon: fas fa-file-contract
 ---
 
 <small><i>This play was written by [Alluma](alluma.org), one of the partners in the Social Tech Collaborative.</i></small>

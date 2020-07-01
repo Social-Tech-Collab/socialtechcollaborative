@@ -1,10 +1,10 @@
 ---
-title: "Design simple and effective forms for benefit programs "
+title: "Design simple and effective forms for benefit programs"
+short_title: "Desigining forms for benefit programs"
 categories: ["Mobile", "Interviews", "Self-service", "Renewals","User experience"]
 date: 2020-5-15
 comments: true
-# image: example.png
-# visit: https://github.com/socialtechus/playbook/
+icon: fas fa-pencil-alt
 ---
 
 <small><i>This play was written by [Civilla](https://civilla.com/), one of the partners in the Social Tech Collaborative</i></small>

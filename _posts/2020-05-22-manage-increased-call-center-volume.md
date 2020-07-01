@@ -1,8 +1,10 @@
 ---
-title: "Manage increased call center volume during COVID-19 "
+title: "Manage increased call center volume during COVID-19"
+short_title: "Manage call volume in a pandemic"
 categories: ["Mobile", "Virtual assistance", "Workforce"]
 date: 2020-5-22
 comments: true
+icon: fas fa-phone-volume
 ---
 
 <small><i>This play was written by [mRelief](https://mrelief.com/), one of the partners in the Social Tech Collaborative</i></small>

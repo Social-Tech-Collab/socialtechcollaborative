@@ -1,74 +1,20 @@
 {% if post.invisible == true %}
-<div class="card card-pin raco" {% unless post.image %} style="min-height:250px; min-width: 18rem; background-color: transparent; color: transparent;" {% endunless %}>
-    {% unless post.image %}
-    <a class="d-block" >
-        <h2 class="card-title title" style="color: transparent; background-color: transparent;"> </h2>
-        <small class="d-block text-muted">{{ post.card_description | strip_html | truncatewords:25 }}</small>
-        <div class="more">
-            <i class="fa fa-arrow-circle-right" aria-hidden="true"></i>
-        </div>
-    </a>
-    {% endunless %}
-    {% if post.image %}
-    <div class="wrapcat">
-        <span class="gotopost">
-            <a class=""><i class="fa fa-arrow-circle-right"></i> Check out play
-            </a>
-        </span>
-        <div class="showcat">
-            {% for category in post.categories %}
-            <a class="btn btn-sm btn-indigo mb-1">
-                {{ category }}
-            </a>
-            {% endfor %}
-        </div>
-    </div>
-    <a>
-        <img class="card-img" src="{% if post.image contains " ://" %}{{ post.image }}{% else %}{{ absolute_url }}assets/projects/{{ post.image }}{% endif %}" alt="{{ post.title }}">
-        <div class="notraco">
-            <h4 class="card-title title">{% if post.box_title %}{{ post.box_title }}{% else %}{{ post.title }}{% endif %}</h4>
-                <div class="more">
-                    <i class="fa fa-arrow-circle-right text-muted" aria-hidden="true"></i>
-                </div>
-        </div>
-    </a>
-    {% endif %}
-</div>
+<div class="card card-pin raco" style="min-height:250px; min-width: 18rem; background-color: transparent; color: transparent;"></div>
 {% else %}
-<div class="card card-pin raco" {% unless post.image %} style="min-height:250px; min-width: 18rem;" {% endunless %}>
-
-    {% unless post.image %}
-    <a href="{{site.baseurl}}{{post.url}}" class="d-block">
-        <h2 class="card-title title">{% if post.box_title %}{{ post.box_title }}{% else %}{{ post.title }}{% endif %}</h2>
-        <small class="d-block text-muted">{{ post.card_description | strip_html | truncatewords:25 }}</small>
-        <div class="more">
-            <i class="fa fa-arrow-circle-right" aria-hidden="true"></i>
+<div class="card card-pin raco" style="min-height:250px; min-width: 18rem;">
+    <div class="card-body icon d-block post-card">
+        <a href="{{ post.url | relative_url }}" class="stretched-link">
+            <div class="card-icon">
+                {% if post.icon %}
+                <i class="{{ post.icon }}"></i>
+                {% else %}
+                <i class="fas fa-comments"></i>
+                {% endif %}
+            </div>
+        <div class="card-footer">
+            <h6>{{ post.short_title }}</h6>
         </div>
-    </a>
-    {% endunless %}
-    {% if post.image %}
-    <div class="wrapcat">
-        <span class="gotopost">
-            <a href="{{site.baseurl}}{{post.url}}" class=""><i class="fa fa-arrow-circle-right"></i> Check out play
-            </a>
-        </span>
-        <div class="showcat">
-            {% for category in post.categories %}
-            <a class="btn btn-sm btn-indigo mb-1" href="{{site.baseurl}}/categories#{{ category | downcase }}">
-                {{ category }}
-            </a>
-            {% endfor %}
-        </div>
+        </a>
     </div>
-    <a href="{{site.baseurl}}{{post.url}}">
-        <img class="card-img" src="{% if post.image contains " ://" %}{{ post.image }}{% else %}{{ absolute_url }}assets/projects/{{ post.image }}{% endif %}" alt="{{ post.title }}">
-        <div class="notraco">
-            <h4 class="card-title title">{% if post.box_title %}{{ post.box_title }}{% else %}{{ post.title }}{% endif %}</h4>
-                <div class="more">
-                    <i class="fa fa-arrow-circle-right text-muted" aria-hidden="true"></i>
-                </div>
-        </div>
-    </a>
-    {% endif %}
 </div>
 {% endif %}
