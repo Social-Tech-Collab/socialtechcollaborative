@@ -672,3 +672,18 @@ article.card {
 .toc-entry {
   font-size: 1rem !important;
 }
+
+/* drop down  */
+[id^='play-dropdown-'] {
+  color: black !important;
+}
+
+#play-button>a,
+#play-button>a:visited {
+  background-color: #111111;
+  border-width: 0px;
+  color: #ffffff;
+  font-weight: 500;
+  text-decoration: none;
+  font-size: 1.1rem;
+}

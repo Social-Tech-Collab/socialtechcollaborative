@@ -289,6 +289,6 @@ main li {
 .playbook a,
 .playbook a:visited,
 .playbook a:hover {
-    color: #ffffff !important;
+    color: #ffffff;
     text-decoration: none;
 }
