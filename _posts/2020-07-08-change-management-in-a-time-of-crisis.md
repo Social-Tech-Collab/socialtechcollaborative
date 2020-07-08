@@ -4,7 +4,7 @@ short_title: "Change management in a time of crisis"
 categories: ["Remote", "Virtual assistance", "Workforce"]
 date: 2020-7-8
 comments: true
-icon: fas fa-bullseye
+icon: fas fa-satellite-dish
 ---
 
 <small><i>This play was written by [Alluma](https://www.alluma.org) and [Civilla](https://www.civilla.com), partners in the Social Tech Collaborative.</i></small>

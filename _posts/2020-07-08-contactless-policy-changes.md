@@ -4,7 +4,7 @@ short_title: "Contactless policy changes"
 categories: ["Data management", "Document handling", "Interviews", "Remote", "Renewals"]
 date: 2020-7-8
 comments: true
-icon: fas fa-bullseye
+icon: fas fa-handshake-slash
 ---
 
 <small><i>This play was written by [Alluma](https://www.alluma.org) and [Civilla](https://www.civilla.com), partners in the Social Tech Collaborative.</i></small>
