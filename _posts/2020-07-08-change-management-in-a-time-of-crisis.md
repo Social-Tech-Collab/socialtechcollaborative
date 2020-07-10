@@ -73,9 +73,9 @@ Establish an effective remote work environment for staff
 *   Webinar: [Successful Remote and Distributed Work in Uncertain Times,](https://www.youtube.com/watch?v=UtLSb1qfWEs) Code for America, March 12, 2020
 
 *   [Navigating to the next normal: The first 100 insights,](https://www.mckinsey.com/featured-insights/coronavirus-leading-through-the-crisis/navigating-to-the-next-normal-the-first-100-insights) McKinsey Consulting, Spring 2020
-*   City of Los Angeles Portal for Remote Staff - [https://connect2lacity.org/](https://connect2lacity.org/)
+*   [Work from Home Resources](https://connect2lacity.org/), City of Los Angeles Portal for Remote Staff
 *   [A New Workplace: Modernizing Where, How, And When Utah Works](https://gomb.utah.gov/a-new-workplace-modernizing-where-how-and-when-utah-works/), Utah's Governor's Office of Management and Budget
 *   [North Carolina Teleworking Program Policy](https://oshr.nc.gov/policies-forms/employment-records/teleworking-program-policy)  
-*   [https://statescoop.com/how-los-angeles-suddenly-moved-10000-workers-online/](https://statescoop.com/how-los-angeles-suddenly-moved-10000-workers-online/)
+*   [How Los Angeles suddenly moved 10,000 city workers online](https://statescoop.com/how-los-angeles-suddenly-moved-10000-workers-online/), StateScoop
 *   [Local Government's Still Open—Remotely](https://www.routefifty.com/management/2020/03/local-governments-still-open-telework/164141/), Route Fifty, March 26, 2020
 *   [12 takeaways from CIOs on the rapid move to remote work](https://statescoop.com/list/12-takeaways-from-cios-on-the-rapid-move-to-remote-work/), StateScoop
