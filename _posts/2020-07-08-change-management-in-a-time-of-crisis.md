@@ -78,4 +78,4 @@ Establish an effective remote work environment for staff
 *   [North Carolina Teleworking Program Policy](https://oshr.nc.gov/policies-forms/employment-records/teleworking-program-policy)  
 *   [https://statescoop.com/how-los-angeles-suddenly-moved-10000-workers-online/](https://statescoop.com/how-los-angeles-suddenly-moved-10000-workers-online/)
 *   [Local Government's Still Open—Remotely](https://www.routefifty.com/management/2020/03/local-governments-still-open-telework/164141/), Route Fifty, March 26, 2020
-*   [https://statescoop.com/list/12-takeaways-from-cios-on-the-rapid-move-to-remote-work/](https://statescoop.com/list/12-takeaways-from-cios-on-the-rapid-move-to-remote-work/)
+*   [12 takeaways from CIOs on the rapid move to remote work](https://statescoop.com/list/12-takeaways-from-cios-on-the-rapid-move-to-remote-work/), StateScoop
