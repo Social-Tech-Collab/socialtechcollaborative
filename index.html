@@ -6,8 +6,17 @@ description: "A technology guide for social service agencies responding to the i
 <div class="jumbotron">
     <div class="container">
         <div class="row">
-            <div class="col-lg-8">
-                <h1>Social Tech Playbook for COVID-19 Response</h1>
+            <div class="col-lg-12">
+                <div class="playbook-navbar">
+                        <div class="row">
+                            <div class="col-lg-8">
+                                <a href="{{ '/' | relative_url }}" title="Social Tech Playbook for COVID-19 Response">Social Tech Playbook for COVID-19 Response</a>
+                            </div>
+                            <div class="col-lg-4">
+                                {% include search-lunr.html %}
+                            </div>
+                        </div>
+                </div>
                 <p class="lead">A technology guide for social service agencies responding to the increased demand for basic needs during the coronavirus pandemic.</p>
             </div>
             <div class="col-lg-4">
@@ -15,6 +24,9 @@ description: "A technology guide for social service agencies responding to the i
         </div>
     </div>
 </div>
+
+{% include plays.html %}
+<br>
 
 <div class="container">
     <div class="row">
@@ -24,7 +36,7 @@ description: "A technology guide for social service agencies responding to the i
         </div>
         <div class="col-lg-4">
             <h2>Feedback</h2>
-            <p><a class="btn btn-primary btn-lg" href="{{ '/feedback' | relative_url }}" role="button">Share your feedback</a></p>
+            <p><a class="btn btn-primary btn-lg feedback-btn" href="{{ '/feedback' | relative_url }}" role="button">Share your feedback</a></p>
         </div>
     </div>
     <div class="row">
@@ -43,6 +55,4 @@ description: "A technology guide for social service agencies responding to the i
         </div>
     </div>
 </div>
-{% include plays.html %}
-<br>
 {% include partners.html %}

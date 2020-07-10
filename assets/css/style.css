@@ -254,7 +254,7 @@ main li {
 .btn-primary,
 .btn-primary:visited,
 .btn-primary:hover {
-  background: #111111;
+  background: #0f4c81;
   border: 1px solid #f1f1f1;
   color: #ffffff !important;
   text-decoration: none;
@@ -277,18 +277,23 @@ main li {
 /* Playbook */
 
 .playbook {
-  background: #111111;
-  border-top: 1px solid #ffffff;
+  background: #0f4c81;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 800;
+}
+
+.playbook-navbar {
+  background: #f1f1f1;
   font-family: "Montserrat", sans-serif;
   font-weight: 800;
   padding: 20px 0;
 }
 
-.playbook,
-.playbook a,
-.playbook a:visited,
-.playbook a:hover {
-  color: #ffffff !important;
+.playbook-navbar,
+.playbook-navbar a,
+.playbook-navbar a:visited,
+.playbook-navbar a:hover {
+  color: #111111 !important;
   text-decoration: none;
 }
 
@@ -330,3 +335,6 @@ main li {
   color: #0f4c81 !important;
 }
 
+.feedback-btn {
+  background-color: #0f4c81;
+}
